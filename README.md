@@ -161,7 +161,7 @@ The app will open in your browser.
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Parthasarathi sahoo**
 
 ---
 
